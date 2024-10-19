@@ -1,0 +1,16 @@
+D:\C# dersleri\DataGridView\DataGridView\bin\Debug\net8.0-windows\DataGridView.exe
+D:\C# dersleri\DataGridView\DataGridView\bin\Debug\net8.0-windows\DataGridView.deps.json
+D:\C# dersleri\DataGridView\DataGridView\bin\Debug\net8.0-windows\DataGridView.runtimeconfig.json
+D:\C# dersleri\DataGridView\DataGridView\bin\Debug\net8.0-windows\DataGridView.dll
+D:\C# dersleri\DataGridView\DataGridView\bin\Debug\net8.0-windows\DataGridView.pdb
+D:\C# dersleri\DataGridView\DataGridView\obj\Debug\net8.0-windows\DataGridView.Form1.resources
+D:\C# dersleri\DataGridView\DataGridView\obj\Debug\net8.0-windows\DataGridView.csproj.GenerateResource.cache
+D:\C# dersleri\DataGridView\DataGridView\obj\Debug\net8.0-windows\DataGridView.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# dersleri\DataGridView\DataGridView\obj\Debug\net8.0-windows\DataGridView.AssemblyInfoInputs.cache
+D:\C# dersleri\DataGridView\DataGridView\obj\Debug\net8.0-windows\DataGridView.AssemblyInfo.cs
+D:\C# dersleri\DataGridView\DataGridView\obj\Debug\net8.0-windows\DataGridView.csproj.CoreCompileInputs.cache
+D:\C# dersleri\DataGridView\DataGridView\obj\Debug\net8.0-windows\DataGridView.dll
+D:\C# dersleri\DataGridView\DataGridView\obj\Debug\net8.0-windows\refint\DataGridView.dll
+D:\C# dersleri\DataGridView\DataGridView\obj\Debug\net8.0-windows\DataGridView.pdb
+D:\C# dersleri\DataGridView\DataGridView\obj\Debug\net8.0-windows\DataGridView.genruntimeconfig.cache
+D:\C# dersleri\DataGridView\DataGridView\obj\Debug\net8.0-windows\ref\DataGridView.dll
